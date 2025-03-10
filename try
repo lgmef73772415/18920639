@@ -1,3 +1,4 @@
+out.write(”aString”);
 } catch (IOException e) {
 // do the thing you do
 String url = props.getProperty("db.url");
