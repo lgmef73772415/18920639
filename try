@@ -1,3 +1,4 @@
+// do the thing you do
 public void fetch() throws SQLException, IOException
 Connection con;
 out.write(”aString”);
