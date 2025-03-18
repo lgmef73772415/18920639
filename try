@@ -1,3 +1,4 @@
+out.write(”aString”);
 public void fetch() throws SQLException, IOException
 con=DriverManager.getConnection(url, userName, password);
 // do the thing you do
