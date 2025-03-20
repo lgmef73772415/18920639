@@ -1,3 +1,4 @@
+} finally {
 Class.forName(driverClass);
 out.write(”aString”);
 public void fetch() throws SQLException, IOException
