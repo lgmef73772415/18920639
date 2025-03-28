@@ -1,3 +1,4 @@
+String url = props.getProperty("db.url");
 con=DriverManager.getConnection(url, userName, password);
 out.close();
 con=DriverManager.getConnection(url, userName, password);
